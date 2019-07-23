@@ -8,4 +8,7 @@ package java;/**
  * @Description:
  */
 public class Mytest1 {
+
+    private  String username;
+
 }
